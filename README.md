@@ -2,9 +2,9 @@
 
 Salto Doble es un juego creado con el motor Pilas engine.
 
-Objetibo: Llegar lo mas alto posible.
+Objetivo: Llegar lo más alto posible.
 
-Controles: Las flechas del teclatdo.
+Controles: Las flechas del teclado.
 
 ![](extras/imagen1.png)
 
